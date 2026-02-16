@@ -60,7 +60,7 @@ INSERT INTO users (username, password, role) VALUES
 ## 📂 Project Structure
 
 ```
-login_multiuser/
+MULTIUSER/
 │
 ├── config/
 │   └── database.php

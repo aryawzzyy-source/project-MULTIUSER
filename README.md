@@ -90,7 +90,7 @@ htdocs/
 4. Open in browser:
 
 ```
-http://localhost/login_multiuser/login.php
+http://localhost/MULTIUSER/login.php
 ```
 
 ---
